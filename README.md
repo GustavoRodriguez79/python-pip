@@ -6,7 +6,7 @@ en la terminal
 ```sh
     
     cd game
-    pyhton3 main.py
+    python3 main.py
 ```
 
 y a jugar
